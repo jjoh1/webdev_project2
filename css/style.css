@@ -63,6 +63,10 @@ main {
   overflow: hidden;
 }
 
+section.seperate {
+  border-bottom: 5px dotted #ffcfe6;
+}
+
 img.cat {
   width: 50%;
   height: auto;
