@@ -11,6 +11,22 @@ header {
   border-radius: 10px;
 }
 
+nav {
+  border-bottom: 3px solid white;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+  margin: 0 20px;
+}
+
 main {
   background-color: white;
   color: black;
@@ -29,6 +45,14 @@ img.cat {
   height: auto;
   float: right;
   min-width: 200px;
+}
+
+iframe.songVid {
+  width: 50%;
+  height: auto;
+  aspect-ratio: 16/9; /*https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio*/
+  float: right;
+  margin-left: 10px;
 }
 
 .clear {
@@ -74,6 +98,10 @@ ul {
 
 ul ul{
   list-style-type: "\2192\ ";
+}
+
+ul.vidList li {
+  clear: both;
 }
 
 li.remBullet {
