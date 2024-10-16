@@ -42,7 +42,6 @@ nav ul li a {
 }
 
 nav ul li#onPage a {
-  border: 2px solid white;
   background-color: white;
   color: #ffcfe6;
 }
