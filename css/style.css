@@ -63,6 +63,19 @@ main {
   overflow: hidden;
 }
 
+section.qestionAnswer h2 {
+  margin: 10px;
+  float: left;
+  width: 40%;
+  border-right: 5px dotted #ffcfe6; 
+}
+
+section.qestionAnswer p {
+  margin: 10px;
+  float: left;
+  width: 40%;
+}
+
 section.seperate {
   border-bottom: 5px dotted #ffcfe6;
 }
