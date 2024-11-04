@@ -33,7 +33,7 @@ nav ul li a {
   display: block;
   border: 2px dotted white;
   padding: 10px;
-  font-family: "Courier Prime", monospace;
+  font-family: "Courier Prime", "Courier New";
   font-weight: 600;
   font-style: normal;
   font-size: 25px;
@@ -102,28 +102,28 @@ iframe.songVid {
 }
 
 h1 {
-  font-family: "Londrina Sketch", sans-serif;
+  font-family: "Londrina Sketch", "Times New Roman";
   font-weight: bold;
   font-size: 80px;
   font-style: normal;
 }
 
 h2 {
-  font-family: "Courier Prime", monospace;
+  font-family: "Courier Prime", "Courier New";
   font-weight: 700;
   font-style: normal;
   font-size: 40px;
 }
 
 h3 {
-  font-family: "Prata", serif;
+  font-family: "Prata", Georgia;
   font-weight: 600;
   font-style: normal;
   font-size: 20px;
 }
 
 h4 {
-  font-family: "Prata", serif;
+  font-family: "Prata", Georgia;
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
